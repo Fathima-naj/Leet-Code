@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2639-separate-the-digits-in-an-array) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3165-find-indices-with-index-and-value-difference-i) |
+| [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Simulation
