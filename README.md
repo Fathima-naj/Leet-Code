@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Fathima-naj/Leet-Code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2639-separate-the-digits-in-an-array) |
+| [2836-neither-minimum-nor-maximum](https://github.com/Fathima-naj/Leet-Code/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Fathima-naj/Leet-Code/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Fathima-naj/Leet-Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3165-find-indices-with-index-and-value-difference-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [2836-neither-minimum-nor-maximum](https://github.com/Fathima-naj/Leet-Code/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Fathima-naj/Leet-Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 ## Enumeration
 |  |
