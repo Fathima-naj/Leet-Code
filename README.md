@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/Fathima-naj/Leet-Code/tree/master/0861-flipping-an-image) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2639-separate-the-digits-in-an-array) |
+| [3811-reverse-degree-of-a-string](https://github.com/Fathima-naj/Leet-Code/tree/master/3811-reverse-degree-of-a-string) |
 ## Math
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Fathima-naj/Leet-Code/tree/master/2819-remove-trailing-zeros-from-a-string) |
 | [3379-score-of-a-string](https://github.com/Fathima-naj/Leet-Code/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Fathima-naj/Leet-Code/tree/master/3412-permutation-difference-between-two-strings) |
+| [3811-reverse-degree-of-a-string](https://github.com/Fathima-naj/Leet-Code/tree/master/3811-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
 | ------- |
