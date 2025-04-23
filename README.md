@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Fathima-naj/Leet-Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
+| [3227-find-missing-and-repeated-values](https://github.com/Fathima-naj/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Simulation
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Fathima-naj/Leet-Code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Fathima-naj/Leet-Code/tree/master/2812-find-the-maximum-achievable-number) |
+| [3227-find-missing-and-repeated-values](https://github.com/Fathima-naj/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
 | [3371-harshad-number](https://github.com/Fathima-naj/Leet-Code/tree/master/3371-harshad-number) |
 | [3830-find-closest-person](https://github.com/Fathima-naj/Leet-Code/tree/master/3830-find-closest-person) |
 ## Hash Table
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Fathima-naj/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/Fathima-naj/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Fathima-naj/Leet-Code/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3227-find-missing-and-repeated-values](https://github.com/Fathima-naj/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Fathima-naj/Leet-Code/tree/master/3412-permutation-difference-between-two-strings) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## String
@@ -78,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Fathima-naj/Leet-Code/tree/master/0861-flipping-an-image) |
+| [3227-find-missing-and-repeated-values](https://github.com/Fathima-naj/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
 ## Binary Search
 |  |
 | ------- |
