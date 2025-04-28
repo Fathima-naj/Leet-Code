@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Fathima-naj/Leet-Code/tree/master/1635-number-of-good-pairs) |
+| [2037-count-square-sum-triples](https://github.com/Fathima-naj/Leet-Code/tree/master/2037-count-square-sum-triples) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Fathima-naj/Leet-Code/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Fathima-naj/Leet-Code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2037-count-square-sum-triples](https://github.com/Fathima-naj/Leet-Code/tree/master/2037-count-square-sum-triples) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Fathima-naj/Leet-Code/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Counting
 |  |
