@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
 | [3227-find-missing-and-repeated-values](https://github.com/Fathima-naj/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3397-find-the-integer-added-to-array-i) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## Simulation
 |  |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Fathima-naj/Leet-Code/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3227-find-missing-and-repeated-values](https://github.com/Fathima-naj/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Fathima-naj/Leet-Code/tree/master/3412-permutation-difference-between-two-strings) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3446-find-the-number-of-good-pairs-i) |
 ## String
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Fathima-naj/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Fathima-naj/Leet-Code/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 ## String Matching
 |  |
 | ------- |
