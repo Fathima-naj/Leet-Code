@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2639-separate-the-digits-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2639-separate-the-digits-in-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Fathima-naj/Leet-Code/tree/master/2836-neither-minimum-nor-maximum) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Fathima-naj/Leet-Code/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Fathima-naj/Leet-Code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Fathima-naj/Leet-Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 | [3176-minimum-sum-of-mountain-triplets-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3176-minimum-sum-of-mountain-triplets-i) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0861-flipping-an-image](https://github.com/Fathima-naj/Leet-Code/tree/master/0861-flipping-an-image) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2639-separate-the-digits-in-an-array) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Fathima-naj/Leet-Code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3811-reverse-degree-of-a-string](https://github.com/Fathima-naj/Leet-Code/tree/master/3811-reverse-degree-of-a-string) |
 ## Math
 |  |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Fathima-naj/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/Fathima-naj/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Fathima-naj/Leet-Code/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Fathima-naj/Leet-Code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/Fathima-naj/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Fathima-naj/Leet-Code/tree/master/3412-permutation-difference-between-two-strings) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/Fathima-naj/Leet-Code/tree/master/2235-capitalize-the-title) |
 | [2819-remove-trailing-zeros-from-a-string](https://github.com/Fathima-naj/Leet-Code/tree/master/2819-remove-trailing-zeros-from-a-string) |
+| [2847-find-maximum-number-of-string-pairs](https://github.com/Fathima-naj/Leet-Code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3379-score-of-a-string](https://github.com/Fathima-naj/Leet-Code/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Fathima-naj/Leet-Code/tree/master/3412-permutation-difference-between-two-strings) |
 | [3811-reverse-degree-of-a-string](https://github.com/Fathima-naj/Leet-Code/tree/master/3811-reverse-degree-of-a-string) |
