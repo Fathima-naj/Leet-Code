@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-truncate-sentence](https://github.com/Fathima-naj/Leet-Code/tree/master/1944-truncate-sentence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
+| [2350-find-closest-number-to-zero](https://github.com/Fathima-naj/Leet-Code/tree/master/2350-find-closest-number-to-zero) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Fathima-naj/Leet-Code/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Fathima-naj/Leet-Code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
