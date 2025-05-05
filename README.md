@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Fathima-naj/Leet-Code/tree/master/2350-find-closest-number-to-zero) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Fathima-naj/Leet-Code/tree/master/2442-number-of-arithmetic-triplets) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Fathima-naj/Leet-Code/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Fathima-naj/Leet-Code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0782-jewels-and-stones](https://github.com/Fathima-naj/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/Fathima-naj/Leet-Code/tree/master/1635-number-of-good-pairs) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Fathima-naj/Leet-Code/tree/master/2442-number-of-arithmetic-triplets) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Fathima-naj/Leet-Code/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Fathima-naj/Leet-Code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/Fathima-naj/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Fathima-naj/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0861-flipping-an-image](https://github.com/Fathima-naj/Leet-Code/tree/master/0861-flipping-an-image) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Fathima-naj/Leet-Code/tree/master/2442-number-of-arithmetic-triplets) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Fathima-naj/Leet-Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 | [3165-find-indices-with-index-and-value-difference-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3165-find-indices-with-index-and-value-difference-i) |
 ## Bit Manipulation
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/Fathima-naj/Leet-Code/tree/master/2037-count-square-sum-triples) |
+| [2442-number-of-arithmetic-triplets](https://github.com/Fathima-naj/Leet-Code/tree/master/2442-number-of-arithmetic-triplets) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Fathima-naj/Leet-Code/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Counting
 |  |
