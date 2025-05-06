@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Fathima-naj/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Fathima-naj/Leet-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/Fathima-naj/Leet-Code/tree/master/1944-truncate-sentence) |
+| [1975-minimum-distance-to-the-target-element](https://github.com/Fathima-naj/Leet-Code/tree/master/1975-minimum-distance-to-the-target-element) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Fathima-naj/Leet-Code/tree/master/2350-find-closest-number-to-zero) |
