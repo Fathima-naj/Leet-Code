@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Fathima-naj/Leet-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/Fathima-naj/Leet-Code/tree/master/1944-truncate-sentence) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Fathima-naj/Leet-Code/tree/master/1975-minimum-distance-to-the-target-element) |
+| [2048-build-array-from-permutation](https://github.com/Fathima-naj/Leet-Code/tree/master/2048-build-array-from-permutation) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2350-find-closest-number-to-zero](https://github.com/Fathima-naj/Leet-Code/tree/master/2350-find-closest-number-to-zero) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Fathima-naj/Leet-Code/tree/master/0861-flipping-an-image) |
+| [2048-build-array-from-permutation](https://github.com/Fathima-naj/Leet-Code/tree/master/2048-build-array-from-permutation) |
 | [2639-separate-the-digits-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2639-separate-the-digits-in-an-array) |
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Fathima-naj/Leet-Code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3811-reverse-degree-of-a-string](https://github.com/Fathima-naj/Leet-Code/tree/master/3811-reverse-degree-of-a-string) |
