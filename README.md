@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Fathima-naj/Leet-Code/tree/master/0326-power-of-three) |
 | [1635-number-of-good-pairs](https://github.com/Fathima-naj/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2037-count-square-sum-triples](https://github.com/Fathima-naj/Leet-Code/tree/master/2037-count-square-sum-triples) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Fathima-naj/Leet-Code/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -121,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1524-string-matching-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/1524-string-matching-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/Fathima-naj/Leet-Code/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
