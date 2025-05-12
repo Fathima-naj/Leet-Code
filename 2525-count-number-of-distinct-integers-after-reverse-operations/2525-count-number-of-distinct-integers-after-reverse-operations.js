@@ -4,7 +4,7 @@
  */
 var countDistinctIntegers = function(nums) {
   
-let k= nums.map(v=>parseInt(v.toString().split('').reverse('').join('')))
+let k= nums.map(v=>parseInt(v.toString().split('').reverse().join('')))
 
 let a=[...nums,...k]
 let ans=new Set(a)
