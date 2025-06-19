@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3397-find-the-integer-added-to-array-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3446-find-the-number-of-good-pairs-i) |
+| [3582-find-indices-of-stable-mountains](https://github.com/Fathima-naj/Leet-Code/tree/master/3582-find-indices-of-stable-mountains) |
 ## Simulation
 |  |
 | ------- |
