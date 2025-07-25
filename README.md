@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Fathima-naj/Leet-Code/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/Fathima-naj/Leet-Code/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Fathima-naj/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2037-count-square-sum-triples](https://github.com/Fathima-naj/Leet-Code/tree/master/2037-count-square-sum-triples) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Fathima-naj/Leet-Code/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
@@ -128,4 +129,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/Fathima-naj/Leet-Code/tree/master/0326-power-of-three) |
+| [1013-fibonacci-number](https://github.com/Fathima-naj/Leet-Code/tree/master/1013-fibonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Fathima-naj/Leet-Code/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Fathima-naj/Leet-Code/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
