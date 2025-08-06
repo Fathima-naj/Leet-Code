@@ -138,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Fathima-naj/Leet-Code/tree/master/1013-fibonacci-number) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/Fathima-naj/Leet-Code/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
