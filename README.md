@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Fathima-naj/Leet-Code/tree/master/1635-number-of-good-pairs) |
+| [1651-shuffle-string](https://github.com/Fathima-naj/Leet-Code/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Fathima-naj/Leet-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/Fathima-naj/Leet-Code/tree/master/1944-truncate-sentence) |
 | [1975-minimum-distance-to-the-target-element](https://github.com/Fathima-naj/Leet-Code/tree/master/1975-minimum-distance-to-the-target-element) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Fathima-naj/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0782-jewels-and-stones](https://github.com/Fathima-naj/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1524-string-matching-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/1524-string-matching-in-an-array) |
+| [1651-shuffle-string](https://github.com/Fathima-naj/Leet-Code/tree/master/1651-shuffle-string) |
 | [1781-check-if-two-string-arrays-are-equivalent](https://github.com/Fathima-naj/Leet-Code/tree/master/1781-check-if-two-string-arrays-are-equivalent) |
 | [1944-truncate-sentence](https://github.com/Fathima-naj/Leet-Code/tree/master/1944-truncate-sentence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2231-find-first-palindromic-string-in-the-array) |
