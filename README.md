@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0861-flipping-an-image](https://github.com/Fathima-naj/Leet-Code/tree/master/0861-flipping-an-image) |
+| [1137-height-checker](https://github.com/Fathima-naj/Leet-Code/tree/master/1137-height-checker) |
 | [1524-string-matching-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/1524-string-matching-in-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1635-number-of-good-pairs](https://github.com/Fathima-naj/Leet-Code/tree/master/1635-number-of-good-pairs) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [1137-height-checker](https://github.com/Fathima-naj/Leet-Code/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Fathima-naj/Leet-Code/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Fathima-naj/Leet-Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -169,4 +171,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/Fathima-naj/Leet-Code/tree/master/0535-encode-and-decode-tinyurl) |
+## Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/Fathima-naj/Leet-Code/tree/master/1137-height-checker) |
 <!---LeetCode Topics End-->
