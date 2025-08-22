@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Fathima-naj/Leet-Code/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/Fathima-naj/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/Fathima-naj/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Fathima-naj/Leet-Code/tree/master/2442-number-of-arithmetic-triplets) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/Fathima-naj/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Fathima-naj/Leet-Code/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/Fathima-naj/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1524-string-matching-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/1524-string-matching-in-an-array) |
 | [1651-shuffle-string](https://github.com/Fathima-naj/Leet-Code/tree/master/1651-shuffle-string) |
@@ -159,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Fathima-naj/Leet-Code/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Fathima-naj/Leet-Code/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
