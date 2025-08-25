@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Fathima-naj/Leet-Code/tree/master/0169-majority-element) |
 | [0861-flipping-an-image](https://github.com/Fathima-naj/Leet-Code/tree/master/0861-flipping-an-image) |
 | [1137-height-checker](https://github.com/Fathima-naj/Leet-Code/tree/master/1137-height-checker) |
 | [1524-string-matching-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/1524-string-matching-in-an-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Fathima-naj/Leet-Code/tree/master/0169-majority-element) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Fathima-naj/Leet-Code/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/Fathima-naj/Leet-Code/tree/master/0782-jewels-and-stones) |
 | [1635-number-of-good-pairs](https://github.com/Fathima-naj/Leet-Code/tree/master/1635-number-of-good-pairs) |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Fathima-naj/Leet-Code/tree/master/0169-majority-element) |
 | [1137-height-checker](https://github.com/Fathima-naj/Leet-Code/tree/master/1137-height-checker) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Fathima-naj/Leet-Code/tree/master/2836-neither-minimum-nor-maximum) |
@@ -126,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Fathima-naj/Leet-Code/tree/master/0169-majority-element) |
 | [1635-number-of-good-pairs](https://github.com/Fathima-naj/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Fathima-naj/Leet-Code/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
@@ -175,4 +179,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/Fathima-naj/Leet-Code/tree/master/1137-height-checker) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Fathima-naj/Leet-Code/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
