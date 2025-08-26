@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2847-find-maximum-number-of-string-pairs](https://github.com/Fathima-naj/Leet-Code/tree/master/2847-find-maximum-number-of-string-pairs) |
 | [3379-score-of-a-string](https://github.com/Fathima-naj/Leet-Code/tree/master/3379-score-of-a-string) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Fathima-naj/Leet-Code/tree/master/3412-permutation-difference-between-two-strings) |
+| [3636-check-balanced-string](https://github.com/Fathima-naj/Leet-Code/tree/master/3636-check-balanced-string) |
 | [3811-reverse-degree-of-a-string](https://github.com/Fathima-naj/Leet-Code/tree/master/3811-reverse-degree-of-a-string) |
 ## Two Pointers
 |  |
