@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Fathima-naj/Leet-Code/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Fathima-naj/Leet-Code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2752-sum-multiples](https://github.com/Fathima-naj/Leet-Code/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/Fathima-naj/Leet-Code/tree/master/2812-find-the-maximum-achievable-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Fathima-naj/Leet-Code/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3227-find-missing-and-repeated-values](https://github.com/Fathima-naj/Leet-Code/tree/master/3227-find-missing-and-repeated-values) |
