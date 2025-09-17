@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Fathima-naj/Leet-Code/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1635-number-of-good-pairs](https://github.com/Fathima-naj/Leet-Code/tree/master/1635-number-of-good-pairs) |
 | [2037-count-square-sum-triples](https://github.com/Fathima-naj/Leet-Code/tree/master/2037-count-square-sum-triples) |
+| [2507-number-of-common-factors](https://github.com/Fathima-naj/Leet-Code/tree/master/2507-number-of-common-factors) |
 | [2525-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Fathima-naj/Leet-Code/tree/master/2525-count-number-of-distinct-integers-after-reverse-operations) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/Fathima-naj/Leet-Code/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/Fathima-naj/Leet-Code/tree/master/2037-count-square-sum-triples) |
 | [2442-number-of-arithmetic-triplets](https://github.com/Fathima-naj/Leet-Code/tree/master/2442-number-of-arithmetic-triplets) |
+| [2507-number-of-common-factors](https://github.com/Fathima-naj/Leet-Code/tree/master/2507-number-of-common-factors) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Fathima-naj/Leet-Code/tree/master/2844-sum-of-squares-of-special-elements) |
 ## Counting
 |  |
@@ -202,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Fathima-naj/Leet-Code/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [2507-number-of-common-factors](https://github.com/Fathima-naj/Leet-Code/tree/master/2507-number-of-common-factors) |
 <!---LeetCode Topics End-->
