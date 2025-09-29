@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Fathima-naj/Leet-Code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3582-find-indices-of-stable-mountains](https://github.com/Fathima-naj/Leet-Code/tree/master/3582-find-indices-of-stable-mountains) |
 | [3869-smallest-index-with-digit-sum-equal-to-index](https://github.com/Fathima-naj/Leet-Code/tree/master/3869-smallest-index-with-digit-sum-equal-to-index) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Fathima-naj/Leet-Code/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Simulation
 |  |
 | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3446-find-the-number-of-good-pairs-i](https://github.com/Fathima-naj/Leet-Code/tree/master/3446-find-the-number-of-good-pairs-i) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Fathima-naj/Leet-Code/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Fathima-naj/Leet-Code/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## String
 |  |
 | ------- |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/Fathima-naj/Leet-Code/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Fathima-naj/Leet-Code/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/Fathima-naj/Leet-Code/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Fathima-naj/Leet-Code/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 ## Enumeration
 |  |
 | ------- |
@@ -212,4 +215,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Fathima-naj/Leet-Code/tree/master/2507-number-of-common-factors) |
+## Greedy
+|  |
+| ------- |
+| [3997-maximize-sum-of-at-most-k-distinct-elements](https://github.com/Fathima-naj/Leet-Code/tree/master/3997-maximize-sum-of-at-most-k-distinct-elements) |
 <!---LeetCode Topics End-->
