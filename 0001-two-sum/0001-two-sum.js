@@ -4,7 +4,7 @@
  * @return {number[]}
  */
 var twoSum = function(nums, target) {
-    let ans;
+     let ans;
     for(i=0;i<nums.length;i++){
         for(j=i+1;j<nums.length;j++){
             var x=nums[i]+nums[j];
