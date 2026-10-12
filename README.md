@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Fathima-naj/Leet-Code/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Fathima-naj/Leet-Code/tree/master/0169-majority-element) |
 | [0861-flipping-an-image](https://github.com/Fathima-naj/Leet-Code/tree/master/0861-flipping-an-image) |
 | [1137-height-checker](https://github.com/Fathima-naj/Leet-Code/tree/master/1137-height-checker) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Fathima-naj/Leet-Code/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Fathima-naj/Leet-Code/tree/master/0169-majority-element) |
 | [0535-encode-and-decode-tinyurl](https://github.com/Fathima-naj/Leet-Code/tree/master/0535-encode-and-decode-tinyurl) |
 | [0782-jewels-and-stones](https://github.com/Fathima-naj/Leet-Code/tree/master/0782-jewels-and-stones) |
